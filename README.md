@@ -29,6 +29,8 @@ Next, source the database file by entering the below into mysql:<br>
 
 If your database has successfully been created, quit mysql. Install node to the application and run the seed data:<br>
 `npm install`
+<br>
+
 `npm run seeds`
 
 Confirm that tables and created and seeded in MySQL.<br>
