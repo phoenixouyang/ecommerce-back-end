@@ -40,7 +40,7 @@ In the terminal, type the below command:<br>
 The application will now be running on port 3001. You can get, add, update and delete data from the categories, products and tag tables.<br>
 
 
-[Click here for a demonstration video of this application!](https://drive.google.com/file/d/1zy7vwoWW9T5ScHgsyyjVLkYpxIwJs5CH/view?usp=sharing)
+[Click here for a demonstration video of this application!](https://drive.google.com/file/d/1Beafh9nZjk9j0PuifUMLKonZDU67k6yl/view?usp=sharing)
 
 ## Credits
 Starter code from UToronto Coding Boot Camp. The repository can be accessed [here](https://github.com/coding-boot-camp/fantastic-umbrella)
